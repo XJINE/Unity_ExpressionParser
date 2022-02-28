@@ -1,6 +1,6 @@
 # Unity_ExpressionParser
 
-ExpressionParser is simple implemantation to parse espression into float value with ``DataTable``.
+ExpressionParser is simple implemantation to parse expression into float value with ``DataTable``.
 
 ```csharp
 public static class ExpressionParser
