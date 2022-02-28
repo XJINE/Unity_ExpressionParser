@@ -20,7 +20,7 @@ public class Sample : MonoBehaviour
 
         if ((Event.current.isKey && Event.current.keyCode == KeyCode.Return) || !focused)
         {
-            var (success, value) = ExpressionParser.Parse(_expression.Trim());
+            var (success, value) = ExpressionParser.Parse(_expression);
         
             if (success)
             {
