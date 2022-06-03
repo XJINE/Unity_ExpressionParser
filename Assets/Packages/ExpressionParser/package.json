@@ -1,0 +1,18 @@
+{
+    "name"       : "com.xjine.expression_parser",
+    "displayName": "Expression Parser", 
+    "version"    : "1.0.0",
+    "unity"      : "2021.3",
+    "description": "ExpressionParser is simple implementation to parse expression into float value with DataTable.",
+    "author"     :
+    {
+        "name": "XJINE",
+        "url" : "https://github.com/XJINE"
+    },
+    "keywords":
+    [
+    ],
+    "dependencies":
+    {
+    }
+}
